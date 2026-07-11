@@ -1,0 +1,9 @@
+Name: Shinjan
+Monthly Income: 60000
+Essentials: 37000
+Wants: 6000
+Savings: 5000
+---ADVICE---
+ALERT!You have crossed your monthly vehicle maintenance budget
+ALERT! You have crossed your healthcare budget
+ALERT! You have crossed your children's education budget
